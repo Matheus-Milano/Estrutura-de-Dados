@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1779203099 source:/home/alunos/Documentos/Atividade Fila/Cidades.cpp
+	"Cidades.h"
+
+1779203067 /home/alunos/Documentos/Atividade Fila/Cidades.h
+	"Fila.h"
+
+1779203069 /home/alunos/Documentos/Atividade Fila/Fila.h
+	<iostream>
+
+1779203101 source:/home/alunos/Documentos/Atividade Fila/main.cpp
+	"Fila.h"
+	"Cidades.h"
+

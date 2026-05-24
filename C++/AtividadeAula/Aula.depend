@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777388371 source:/home/alunos/Downloads/Aula/Funcoes.cpp
+	"Funcoes.h"
+
+1777388371 /home/alunos/Downloads/Aula/Funcoes.h
+	<iostream>
+	<math.h>
+
+1777387527 source:/home/alunos/Downloads/Aula/main.cpp
+	"Funcoes.h"
+
