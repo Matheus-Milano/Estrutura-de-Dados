@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1781621114 source:/home/alunos/Documentos/Prova-MatheusMilano/Prova2 Dia 16-06/Funcoes.cpp
+	"Funcoes.h"
+
+1781621063 /home/alunos/Documentos/Prova-MatheusMilano/Prova2 Dia 16-06/Funcoes.h
+	<iostream>
+
+1781621882 source:/home/alunos/Documentos/Prova-MatheusMilano/Prova2 Dia 16-06/main.cpp
+	"Funcoes.h"
+
