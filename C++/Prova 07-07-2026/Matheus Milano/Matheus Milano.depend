@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1783436543 source:/home/alunos/Documentos/Prova 07-07-2026/Matheus Milano/Lista .cpp
+	"Lista .h"
+
+1783434697 /home/alunos/Documentos/Prova 07-07-2026/Matheus Milano/Lista .h
+	<iostream>
+
+1783436101 source:/home/alunos/Documentos/Prova 07-07-2026/Matheus Milano/main.cpp
+	"Lista .h"
+
