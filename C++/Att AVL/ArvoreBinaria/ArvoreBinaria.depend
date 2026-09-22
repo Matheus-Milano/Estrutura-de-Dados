@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1790088222 source:/home/alunos/Documentos/Att AVL/ArvoreBinaria/Arvore.cpp
+	"Arvore.h"
+
+1790088247 /home/alunos/Documentos/Att AVL/ArvoreBinaria/Arvore.h
+	<iostream>
+
+1790088980 source:/home/alunos/Documentos/Att AVL/ArvoreBinaria/main.cpp
+	"Arvore.h"
+
